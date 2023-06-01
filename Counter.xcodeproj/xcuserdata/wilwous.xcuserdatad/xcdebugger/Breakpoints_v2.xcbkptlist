@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1C4672A8-8B4D-414A-8629-0D28739AAA40"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEBD5A18-A2FD-4C03-9ADF-A414BAB40360"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Counter/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FEBD5A18-A2FD-4C03-9ADF-A414BAB40360 - 88d889b7ff36a4ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.countLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilwous/Documents/Xcode%20File/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FEBD5A18-A2FD-4C03-9ADF-A414BAB40360 - faafe5a8ddc40ff9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.countLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilwous/Documents/Xcode%20File/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "FEBD5A18-A2FD-4C03-9ADF-A414BAB40360 - f969897a261ce2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.countLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilwous/Documents/Xcode%20File/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FEBD5A18-A2FD-4C03-9ADF-A414BAB40360 - cb182c0504fd60f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.countLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilwous/Documents/Xcode%20File/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FEBD5A18-A2FD-4C03-9ADF-A414BAB40360 - 372ef2a47e709e06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Counter.ViewController"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilwous/Documents/Xcode%20File/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "FEBD5A18-A2FD-4C03-9ADF-A414BAB40360 - 6f2721b588785d78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Counter.ViewController&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilwous/Documents/Xcode%20File/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
